@@ -29,7 +29,6 @@
     "require-dev": {
         "phpexperts/dockerize":                     "*",
         "behat/mink":                               "*",
-        "behat/mink-extension":                     "*",
         "friends-of-behat/mink-extension":          "*",
         "symfony/symfony":                          "4.*|5.*|6.*|7.*",
         "friends-of-behat/mink-browserkit-driver":  "*",
