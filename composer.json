@@ -1,8 +1,8 @@
 {
-    "name": "behat/symfony2-extension",
+    "name": "csid/symfony-extension",
     "type": "behat-extension",
-    "description": "Symfony2 framework extension for Behat",
-    "keywords": ["symfony", "framework", "bdd"],
+    "description": "Symfony 3-7 framework extension for Behat",
+    "keywords": ["symfony", "framework", "bdd", "behat"],
     "homepage": "http://behat.org",
     "license": "MIT",
     "authors": [
@@ -39,11 +39,6 @@
 
     "autoload": {
         "psr-0": { "Behat\\Symfony2Extension": "src/" }
-    },
-
-    "extra": {
-        "branch-alias": {
-            "dev-master": "2.1.x-dev"
-        }
     }
+
 }
